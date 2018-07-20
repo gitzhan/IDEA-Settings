@@ -1,0 +1,117 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="WeakerAccess" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
+            <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
+            <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="D:/tools/maven3.5" />
+            <option name="userSettingsFile" value="D:\tools\maven3.5\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="#JAVA_HOME" />
+        <option name="skipTests" value="true" />
+        <option name="vmOptions" value="-Dfile.encoding=GB2312" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Global Libraries" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\zhanyalei\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited />
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited />
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

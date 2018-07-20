@@ -1,0 +1,4 @@
+<list display="open-impl" description="open-impl(ctrl+鼠标左键)">
+  <action id="GotoDeclaration" />
+  <action id="GotoImplementation" />
+</list>
