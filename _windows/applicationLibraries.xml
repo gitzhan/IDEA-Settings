@@ -1,5 +1,20 @@
 <application>
   <component name="libraryTable">
+    <library name="jdk1.8">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/tools/java8/jdk1.8.0_101" />
+      </SOURCES>
+      <jarDirectory url="file://D:/tools/java8/jdk1.8.0_101" recursive="false" type="SOURCES" />
+    </library>
+    <library name="junit-4.12">
+      <CLASSES>
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.6 interpreter library">
       <CLASSES />
       <JAVADOC />
