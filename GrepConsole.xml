@@ -108,19 +108,6 @@
                 </option>
                 <option name="name" value="default" />
               </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
-                    <GrepExpressionItem>
-                      <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*alibaba.*" />
-                      <option name="inputFilter" value="true" />
-                    </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="mine" />
-              </GrepExpressionGroup>
             </list>
           </option>
           <option name="name" value="default" />
