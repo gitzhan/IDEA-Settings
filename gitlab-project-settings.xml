@@ -1,0 +1,6 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://sys-gitlab.hikvision.com.cn/dashboard/projects" />
+    <option name="token" value="" />
+  </component>
+</application>
