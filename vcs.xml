@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/gitzhan/java-design-patterns.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sys-gitlab.hikvision.com.cn/" />
+          <option name="userName" value="zhanyalei" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\GitProject" />
